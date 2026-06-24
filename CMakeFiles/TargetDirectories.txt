@@ -1,0 +1,7 @@
+/home/ferhat/Desktop/ABAC-NDN/CMakeFiles/install/strip.dir
+/home/ferhat/Desktop/ABAC-NDN/CMakeFiles/install/local.dir
+/home/ferhat/Desktop/ABAC-NDN/CMakeFiles/install.dir
+/home/ferhat/Desktop/ABAC-NDN/CMakeFiles/list_install_components.dir
+/home/ferhat/Desktop/ABAC-NDN/CMakeFiles/rebuild_cache.dir
+/home/ferhat/Desktop/ABAC-NDN/CMakeFiles/edit_cache.dir
+/home/ferhat/Desktop/ABAC-NDN/CMakeFiles/ABAC-NDN.dir
