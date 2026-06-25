@@ -1,0 +1,20 @@
+# C++ build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.o
+*.a
+*.so
+*.so.*
+Makefile
+
+# Web — never commit generated/installed files
+web/node_modules/
+web/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
